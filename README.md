@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+[![Covid-19 tracker](https://img.youtube.com/vi/2sUJKOs52cU/0.jpg)](https://www.youtube.com/watch?v=2sUJKOs52cU)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
